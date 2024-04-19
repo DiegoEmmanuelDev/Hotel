@@ -1,3 +1,3 @@
-# Hotel-Terabithia.
+# Hotel
 
 https://diegoemmanueldev.github.io/Hotel-Terabithia./
